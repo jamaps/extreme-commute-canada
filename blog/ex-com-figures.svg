@@ -3,17 +3,18 @@
 
 <svg
    width="730"
-   height="380"
-   viewBox="0 0 193.14583 100.54167"
+   height="170"
+   viewBox="0 0 193.14583 44.979168"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
    sodipodi:docname="excom.svg"
-   inkscape:export-filename="/home/jamaps/Dropbox/work/can_commute/blog/race_commute.png"
+   inkscape:export-filename="/home/jamaps/Dropbox/work/can_commute/extreme-commute-canada/blog/income_commute.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -29,9 +30,9 @@
      units="px"
      width="730px"
      inkscape:snap-grids="true"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="341.53258"
-     inkscape:cy="-108.18734"
+     inkscape:zoom="0.55483496"
+     inkscape:cx="464.10197"
+     inkscape:cy="-314.50794"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -98,67 +99,27 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#ebf1f4;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -204.58021,68.405836 v 66.145834 0"
-       id="path52179"
-       sodipodi:nodetypes="ccc" />
-    <path
        style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.299342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 79.375001,-34.489111 v 18.528807"
+       d="m 79.375001,18.520841 v 18.52881"
        id="path52179-8"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.299342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 132.29166,-34.489111 v 18.614112"
+       d="m 132.29166,18.520841 v 18.61411"
        id="path52179-8-6"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.299342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 185.20833,-34.489111 V -15.875"
+       d="m 185.20833,18.520841 v 18.61411"
        id="path52179-8-6-5"
        sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#ebf1f4;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -182.65759,68.405836 v 66.145834 0"
-       id="path52179-4"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#ebf1f4;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -160.73497,68.405836 v 66.145834 0"
-       id="path52179-6"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#ebf1f4;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -138.81236,68.405836 v 66.145834 0"
-       id="path52179-4-7"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#ebf1f4;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -116.88974,68.405836 v 66.145834 0"
-       id="path52179-60"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#ebf1f4;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -94.967119,68.405836 v 66.145834 0"
-       id="path52179-4-9"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#ebf1f4;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -73.044499,68.405836 v 66.145834 0"
-       id="path52179-6-7"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -51.121879,68.405836 v 66.145834 0"
-       id="path52179-4-7-5"
-       sodipodi:nodetypes="ccc" />
     <rect
        style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:1.85164;stroke-linecap:round;stop-color:#000000"
        id="rect15087-9"
        width="45.508335"
        height="5.2916665"
        x="79.375"
-       y="-31.843277"
+       y="21.166687"
        rx="1.7653592e-10"
        ry="4.2144602e-08" />
     <rect
@@ -167,7 +128,7 @@
        width="15.875"
        height="5.291667"
        x="124.88334"
-       y="-31.843277"
+       y="21.166687"
        rx="6.1582302e-11"
        ry="4.2144602e-08" />
     <rect
@@ -176,7 +137,7 @@
        width="13.229167"
        height="5.2916679"
        x="116.94584"
-       y="-23.905777"
+       y="29.104172"
        rx="5.1318585e-11"
        ry="4.214461e-08" />
     <rect
@@ -185,7 +146,7 @@
        width="2.6458397"
        height="2.6458337"
        x="140.22917"
-       y="-13.322445"
+       y="39.6875"
        rx="1.0263741e-11"
        ry="2.1072303e-08" />
     <rect
@@ -194,7 +155,7 @@
        width="2.6458397"
        height="2.6458337"
        x="87.3125"
-       y="-13.322445"
+       y="39.6875"
        rx="1.0263741e-11"
        ry="2.1072303e-08" />
     <rect
@@ -203,151 +164,77 @@
        width="37.570835"
        height="5.2916675"
        x="79.375"
-       y="-23.905777"
+       y="29.104172"
        rx="1.4574478e-10"
        ry="4.214461e-08" />
-    <rect
-       style="fill:#000059;fill-opacity:1;stroke:none;stroke-width:1.99923;stroke-linecap:round;stop-color:#000000"
-       id="rect15087-0"
-       width="53.052738"
-       height="5.2916665"
-       x="-204.58022"
-       y="78.989166"
-       rx="2.0580218e-10"
-       ry="4.2144595e-08" />
-    <rect
-       style="fill:#000059;fill-opacity:1;stroke:none;stroke-width:1.81293;stroke-linecap:round;stop-color:#000000"
-       id="rect15087-0-7"
-       width="43.626015"
-       height="5.2916665"
-       x="-204.58022"
-       y="86.926666"
-       rx="1.69234e-10"
-       ry="4.2144595e-08" />
-    <rect
-       style="fill:#000059;fill-opacity:1;stroke:none;stroke-width:1.10556;stroke-linecap:round;stop-color:#000000"
-       id="rect15087-0-7-3"
-       width="16.222738"
-       height="5.2919998"
-       x="-204.58022"
-       y="94.864174"
-       rx="6.2931237e-11"
-       ry="4.2147253e-08" />
-    <rect
-       style="fill:#000059;fill-opacity:1;stroke:none;stroke-width:0.967678;stroke-linecap:round;stop-color:#000000"
-       id="rect15087-0-7-3-1"
-       width="12.428572"
-       height="5.2919998"
-       x="-204.58022"
-       y="110.73917"
-       rx="4.8212916e-11"
-       ry="4.2147253e-08" />
-    <rect
-       style="fill:#000059;fill-opacity:1;stroke:none;stroke-width:1.06756;stroke-linecap:round;stop-color:#000000"
-       id="rect15087-0-7-3-1-1"
-       width="15.126607"
-       height="5.2919998"
-       x="-204.58022"
-       y="102.80167"
-       rx="5.8679138e-11"
-       ry="4.2147253e-08" />
-    <rect
-       style="fill:#000059;fill-opacity:1;stroke:none;stroke-width:0.629611;stroke-linecap:round;stop-color:#000000"
-       id="rect15087-0-7-3-1-1-9"
-       width="5.2614284"
-       height="5.2919998"
-       x="-204.58022"
-       y="126.61417"
-       rx="2.0410134e-11"
-       ry="4.2147253e-08" />
-    <rect
-       style="fill:#000059;fill-opacity:1;stroke:none;stroke-width:0.642594;stroke-linecap:round;stop-color:#000000"
-       id="rect15087-0-7-3-1-1-9-0"
-       width="5.4806552"
-       height="5.2919998"
-       x="-204.58022"
-       y="118.67667"
-       rx="2.1260558e-11"
-       ry="4.2147253e-08" />
-    <text
-       xml:space="preserve"
-       style="font-size:5.29167px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="-226.85027"
-       y="75.773056"
-       id="text15757"><tspan
-         sodipodi:role="line"
-         id="tspan15755"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.29167px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="-226.85027"
-         y="75.773056">Toronto</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="42.863235"
-       y="-19.464939"
+       y="33.545013"
        id="text15757-5"><tspan
          sodipodi:role="line"
          id="tspan15755-7"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="42.863235"
-         y="-19.464939">Not Low-Income</tspan></text>
+         y="33.545013">Not Low-Income</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
-       x="2.4487295"
-       y="-10.519356"
+       x="10.356442"
+       y="15.791511"
        id="text15757-5-2"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
-         x="2.4487295"
-         y="-10.519356"><tspan
+         x="10.356442"
+         y="15.791511"><tspan
    style="font-weight:bold"
    id="tspan229078">%</tspan> of all commuters</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        x="119.17019"
-       y="-19.781567"
+       y="33.228394"
        id="text15757-5-2-6-0"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          x="119.17019"
-         y="-19.781567">2.5%</tspan></text>
+         y="33.228394">2.5%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        x="128.8744"
-       y="-27.71772"
+       y="25.292236"
        id="text15757-5-2-6-0-1"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          x="128.8744"
-         y="-27.71772">3.0%</tspan></text>
+         y="25.292236">3.0%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="96.664864"
-       y="-27.639587"
+       y="25.370354"
        id="text15757-5-2-6-0-1-1"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="96.664864"
-         y="-27.639587">8.6%</tspan></text>
+         y="25.370354">8.6%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="94.716667"
-       y="-19.830826"
+       y="33.179123"
        id="text15757-5-2-6-0-1-1-0"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-3"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="94.716667"
-         y="-19.830826">7.1%</tspan></text>
+         y="33.179123">7.1%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
@@ -363,249 +250,68 @@
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="90.572144"
-       y="-10.366573"
+       y="42.643383"
        id="text15757-5-2-0"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="90.572144"
-         y="-10.366573">60 to 90 min trip</tspan></text>
+         y="42.643383">60 to 90 min trip</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="143.67598"
-       y="-10.462349"
+       y="42.547588"
        id="text15757-5-2-0-7"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-2"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="143.67598"
-         y="-10.462349">90+ min trip</tspan></text>
+         y="42.547588">90+ min trip</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="78.027588"
-       y="-35.148964"
+       y="17.860985"
        id="text15757-5-2-0-2"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-5"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="78.027588"
-         y="-35.148964">0%</tspan></text>
+         y="17.860985">0%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="128.44928"
-       y="-35.525932"
+       y="17.484016"
        id="text15757-5-2-0-2-6"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-5-2"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="128.44928"
-         y="-35.525932">10%</tspan></text>
+         y="17.484016">10%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="83.521767"
-       y="-39.493244"
+       y="13.5167"
        id="text15757-5-2-0-2-6-7"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-5-2-41"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="83.521767"
-         y="-39.493244">% Extreme Commuter</tspan></text>
+         y="13.5167">% Extreme Commuter</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="181.34555"
-       y="-35.454163"
+       y="17.555794"
        id="text15757-5-2-0-2-6-8"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-5-2-4"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="181.34555"
-         y="-35.454163">20%</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.29167px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="-234.12556"
-       y="91.569695"
-       id="text27643"><tspan
-         sodipodi:role="line"
-         id="tspan27641"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.29167px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="-234.12556"
-         y="91.569695">Vancouver</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.29167px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="-230.03139"
-       y="83.895111"
-       id="text27643-7"><tspan
-         sodipodi:role="line"
-         id="tspan27641-7"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.29167px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="-230.03139"
-         y="83.895111">Montréal</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.29167px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="-227.03917"
-       y="99.600624"
-       id="text27647"><tspan
-         sodipodi:role="line"
-         id="tspan27645"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.29167px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="-227.03917"
-         y="99.600624">Calgary</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.29167px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="-225.36035"
-       y="115.4562"
-       id="text27651"><tspan
-         sodipodi:role="line"
-         id="tspan27649"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.29167px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="-225.36035"
-         y="115.4562">Ottawa</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.29167px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="-232.75221"
-       y="107.47552"
-       id="text27655"><tspan
-         sodipodi:role="line"
-         id="tspan27653"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.29167px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="-232.75221"
-         y="107.47552">Edmonton</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.29167px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="-226.87062"
-       y="131.3268"
-       id="text27659"><tspan
-         sodipodi:role="line"
-         id="tspan27657"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.29167px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="-226.87062"
-         y="131.3268">Québec</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.29167px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="-230.74536"
-       y="123.45809"
-       id="text27663"><tspan
-         sodipodi:role="line"
-         id="tspan27661"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.29167px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="-230.74536"
-         y="123.45809">Winnipeg</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="-196.50381"
-       y="123.38424"
-       id="text27663-2"><tspan
-         sodipodi:role="line"
-         id="tspan27661-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="-196.50381"
-         y="123.38424">25,000</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="-196.46289"
-       y="131.31422"
-       id="text27663-2-9"><tspan
-         sodipodi:role="line"
-         id="tspan27661-6-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="-196.46289"
-         y="131.31422">24,000</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="-190.51251"
-       y="115.34284"
-       id="text27663-2-9-9"><tspan
-         sodipodi:role="line"
-         id="tspan27661-6-0-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="-190.51251"
-         y="115.34284">45,000</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="-187.36778"
-       y="107.45271"
-       id="text27663-2-9-9-4"><tspan
-         sodipodi:role="line"
-         id="tspan27661-6-0-9-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="-187.36778"
-         y="107.45271">69,000</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="-204.895"
-       y="141.96246"
-       id="text27663-2-9-9-4-9"><tspan
-         sodipodi:role="line"
-         id="tspan27661-6-0-9-5-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="-204.895"
-         y="141.96246">Estimated number of low-income residents living in neighbourhoods</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="-204.895"
-         y="147.87177"
-         id="tspan104298">with low transit accessibility in 2016</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="-185.83379"
-       y="99.501366"
-       id="text27663-2-9-9-4-1"><tspan
-         sodipodi:role="line"
-         id="tspan27661-6-0-9-5-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="-185.83379"
-         y="99.501366">74,000</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="-158.88414"
-       y="91.563622"
-       id="text27663-2-9-9-4-1-3"><tspan
-         sodipodi:role="line"
-         id="tspan27661-6-0-9-5-0-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="-158.88414"
-         y="91.563622">199,000</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="-149.2276"
-       y="83.660042"
-       id="text27663-2-9-9-4-1-3-8"><tspan
-         sodipodi:role="line"
-         id="tspan27661-6-0-9-5-0-7-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="-149.2276"
-         y="83.660042">242,000</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="-83.904778"
-       y="75.333412"
-       id="text27663-2-9-9-4-1-3-8-6"><tspan
-         sodipodi:role="line"
-         id="tspan27661-6-0-9-5-0-7-8-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="-83.904778"
-         y="75.333412">638,000</tspan></text>
+         y="17.555794">20%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
@@ -621,73 +327,68 @@
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="51.421486"
-       y="-27.402542"
+       y="25.607407"
        id="text15757-5-8"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="51.421486"
-         y="-27.402542">Low-Income</tspan></text>
+         y="25.607407">Low-Income</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
        x="32.120216"
-       y="-27.736599"
+       y="25.273354"
        id="text15757-5-8-2"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
          x="32.120216"
-         y="-27.736599">6%</tspan></text>
+         y="25.273354">6%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
        x="32.235043"
-       y="-19.937016"
+       y="33.072937"
        id="text15757-5-8-2-3"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-6"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
          x="32.235043"
-         y="-19.937016">94%</tspan></text>
+         y="33.072937">94%</tspan></text>
     <path
        id="0"
        fill="#cccccc"
-       d="m 28.787591,-27.405572 a 9.2600132,9.2600132 0 1 1 -1.472882,-3.073521 l -3.202115,2.344367 a 5.291436,5.291436 0 1 0 0.841646,1.756297 z"
+       d="m 28.787591,25.604381 a 9.2600132,9.2600132 0 1 1 -1.472882,-3.07352 l -3.202115,2.34437 a 5.291436,5.291436 0 1 0 0.841646,1.75629 z"
        style="stroke-width:0.132286" />
     <path
        id="1"
        fill="#474175"
-       d="m 27.314709,-30.479093 a 9.2600132,9.2600132 0 0 1 1.472465,3.07196 l -3.83317,1.027821 a 5.291436,5.291436 0 0 0 -0.841408,-1.755407 z"
+       d="m 27.314709,22.530861 a 9.2600132,9.2600132 0 0 1 1.472465,3.07196 l -3.83317,1.02782 a 5.291436,5.291436 0 0 0 -0.841408,-1.75541 z"
        style="fill:#808080;stroke-width:0.132286" />
     <path
        style="fill:none;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 29.104166,-29.197444 H 31.75"
+       d="M 29.104166,23.812511 H 31.75"
        id="path256926"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 29.104166,-21.259944 H 31.75"
+       d="M 29.104166,31.750011 H 31.75"
        id="path34826-8-0-9"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 39.6875,-21.259944 h 2.645833"
-       id="path34826-8-0-9-9"
-       sodipodi:nodetypes="cc" />
-    <path
        style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.299342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 79.374997,179.88118 v 18.5288"
+       d="m 79.374997,239.1214 v 18.5288"
        id="path52179-8-8"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.299342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 132.29166,179.88118 v 18.61411"
+       d="m 132.29166,239.1214 v 18.61411"
        id="path52179-8-6-6"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.299342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 185.20833,179.88118 v 18.61411"
+       d="m 185.20833,239.1214 v 18.61411"
        id="path52179-8-6-5-0"
        sodipodi:nodetypes="cc" />
     <rect
@@ -696,7 +397,7 @@
        width="38.099998"
        height="5.2916665"
        x="79.375"
-       y="182.52701"
+       y="241.76723"
        rx="1.4779751e-10"
        ry="4.2144602e-08" />
     <rect
@@ -705,7 +406,7 @@
        width="16.404167"
        height="5.291667"
        x="117.475"
-       y="182.52701"
+       y="241.76723"
        rx="6.3635042e-11"
        ry="4.2144602e-08" />
     <rect
@@ -714,7 +415,7 @@
        width="13.229167"
        height="5.2916679"
        x="117.475"
-       y="190.46451"
+       y="249.70473"
        rx="5.1318585e-11"
        ry="4.214461e-08" />
     <rect
@@ -723,7 +424,7 @@
        width="2.6458397"
        height="2.6458337"
        x="140.22916"
-       y="201.04785"
+       y="260.28806"
        rx="1.0263741e-11"
        ry="2.1072303e-08" />
     <rect
@@ -732,7 +433,7 @@
        width="2.6458397"
        height="2.6458337"
        x="87.312492"
-       y="201.04785"
+       y="260.28806"
        rx="1.0263741e-11"
        ry="2.1072303e-08" />
     <rect
@@ -741,432 +442,422 @@
        width="38.099998"
        height="5.2916675"
        x="79.375"
-       y="190.46451"
+       y="249.70473"
        rx="1.4779751e-10"
        ry="4.214461e-08" />
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="30.694628"
-       y="194.68387"
+       y="253.92409"
        id="text15757-5-7"><tspan
          sodipodi:role="line"
          id="tspan15755-7-6"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="30.694628"
-         y="194.68387">No Physical Limitation</tspan></text>
+         y="253.92409">No Physical Limitation</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
        x="-0.19710307"
-       y="203.62946"
+       y="262.86966"
        id="text15757-5-2-4"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-3"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
          x="-0.19710307"
-         y="203.62946"><tspan
+         y="262.86966"><tspan
    style="font-weight:bold"
    id="tspan229078-0">%</tspan> of all commuters</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        x="119.69935"
-       y="194.58873"
+       y="253.82895"
        id="text15757-5-2-6-0-3"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-0"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          x="119.69935"
-         y="194.58873">2.4%</tspan></text>
+         y="253.82895">2.4%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        x="121.89202"
-       y="186.65257"
+       y="245.89279"
        id="text15757-5-2-6-0-1-9"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-2"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          x="121.89202"
-         y="186.65257">3.1%</tspan></text>
+         y="245.89279">3.1%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="96.441582"
-       y="186.7307"
+       y="245.97092"
        id="text15757-5-2-6-0-1-1-5"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-4"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="96.441582"
-         y="186.7307">7.2%</tspan></text>
+         y="245.97092">7.2%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="96.224014"
-       y="194.53947"
+       y="253.77969"
        id="text15757-5-2-6-0-1-1-0-0"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-3-5"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="96.224014"
-         y="194.53947">7.2%</tspan></text>
+         y="253.77969">7.2%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="90.572136"
-       y="204.00372"
+       y="263.24393"
        id="text15757-5-2-0-9"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-4"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="90.572136"
-         y="204.00372">60 to 90 min trip</tspan></text>
+         y="263.24393">60 to 90 min trip</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="143.67596"
-       y="203.90794"
+       y="263.14816"
        id="text15757-5-2-0-7-6"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-2-9"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="143.67596"
-         y="203.90794">90+ min trip</tspan></text>
+         y="263.14816">90+ min trip</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="78.027588"
-       y="179.22133"
+       y="238.46155"
        id="text15757-5-2-0-2-2"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-5-24"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="78.027588"
-         y="179.22133">0%</tspan></text>
+         y="238.46155">0%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="128.44926"
-       y="178.84436"
+       y="238.08458"
        id="text15757-5-2-0-2-6-77"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-5-2-5"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="128.44926"
-         y="178.84436">10%</tspan></text>
+         y="238.08458">10%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="83.521759"
-       y="174.87704"
+       y="234.11726"
        id="text15757-5-2-0-2-6-7-4"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-5-2-41-8"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="83.521759"
-         y="174.87704">% Extreme Commuter</tspan></text>
+         y="234.11726">% Extreme Commuter</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="181.34555"
-       y="178.91612"
+       y="238.15634"
        id="text15757-5-2-0-2-6-8-1"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-5-2-4-2"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="181.34555"
-         y="178.91612">20%</tspan></text>
+         y="238.15634">20%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="28.491257"
-       y="186.74626"
+       y="245.98648"
        id="text15757-5-8-8"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-9"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="28.491257"
-         y="186.74626">Has Physical Limitation</tspan></text>
+         y="245.98648">Has Physical Limitation</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
        x="16.955769"
-       y="189.16547"
+       y="248.40569"
        id="text15757-5-8-2-36"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-8"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
          x="16.955769"
-         y="189.16547">7%</tspan></text>
+         y="248.40569">7%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
-       x="37.930462"
-       y="17.12388"
+       x="37.930466"
+       y="-199.60074"
        id="text15757-5-8-2-36-3"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-8-1"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
-         x="37.930462"
-         y="17.12388">3%</tspan></text>
+         x="37.930466"
+         y="-199.60074">3%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
        x="37.979919"
-       y="25.115229"
+       y="-191.60939"
        id="text15757-5-8-2-36-3-0"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-8-1-5"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
          x="37.979919"
-         y="25.115229">&lt;1%</tspan></text>
+         y="-191.60939">&lt;1%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
-       x="37.952019"
-       y="32.871208"
+       x="37.952026"
+       y="-183.85342"
        id="text15757-5-8-2-36-3-0-6"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-8-1-5-7"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
-         x="37.952019"
-         y="32.871208">1%</tspan></text>
+         x="37.952026"
+         y="-183.85342">1%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
-       x="37.947395"
-       y="40.902672"
+       x="37.947403"
+       y="-175.82196"
        id="text15757-5-8-2-36-3-0-7"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-8-1-5-4"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
-         x="37.947395"
-         y="40.902672">&lt;1%</tspan></text>
+         x="37.947403"
+         y="-175.82196">&lt;1%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
-       x="37.985111"
-       y="48.770561"
+       x="37.985123"
+       y="-167.95407"
        id="text15757-5-8-2-36-3-06"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-8-1-4"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
-         x="37.985111"
-         y="48.770561">1%</tspan></text>
+         x="37.985123"
+         y="-167.95407">1%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
-       x="38.034569"
-       y="56.761925"
+       x="38.034576"
+       y="-159.96271"
        id="text15757-5-8-2-36-3-0-74"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-8-1-5-8"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
-         x="38.034569"
-         y="56.761925">5%</tspan></text>
+         x="38.034576"
+         y="-159.96271">5%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
        x="38.006668"
-       y="64.517906"
+       y="-152.20673"
        id="text15757-5-8-2-36-3-0-6-5"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-8-1-5-7-8"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
          x="38.006668"
-         y="64.517906">9%</tspan></text>
+         y="-152.20673">9%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
        x="38.002045"
-       y="72.54937"
+       y="-144.17526"
        id="text15757-5-8-2-36-3-0-7-2"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-8-1-5-4-6"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
          x="38.002045"
-         y="72.54937">1%</tspan></text>
+         y="-144.17526">1%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
-       x="37.959713"
-       y="80.647148"
+       x="37.959717"
+       y="-136.07748"
        id="text15757-5-8-2-36-3-066"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-8-1-46"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
-         x="37.959713"
-         y="80.647148">4%</tspan></text>
+         x="37.959717"
+         y="-136.07748">4%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
        x="38.009171"
-       y="88.638481"
+       y="-128.08615"
        id="text15757-5-8-2-36-3-0-2"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-8-1-5-89"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
          x="38.009171"
-         y="88.638481">74%</tspan></text>
+         y="-128.08615">74%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
        x="1.4580113"
-       y="194.30917"
+       y="253.54939"
        id="text15757-5-8-2-3-0"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-6-2"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
          x="1.4580113"
-         y="194.30917">93%</tspan></text>
+         y="253.54939">93%</tspan></text>
     <path
        id="0-1"
        fill="#cccccc"
-       d="m 26.141758,186.74323 a 9.2600132,9.2600132 0 1 1 -1.472882,-3.07352 l -3.202115,2.34437 a 5.291436,5.291436 0 1 0 0.841646,1.7563 z"
+       d="m 26.141758,245.98345 a 9.2600132,9.2600132 0 1 1 -1.472882,-3.07352 l -3.202115,2.34437 a 5.291436,5.291436 0 1 0 0.841646,1.7563 z"
        style="stroke-width:0.132286" />
     <path
        id="1-0"
        fill="#474175"
-       d="m 24.668876,183.66971 a 9.2600132,9.2600132 0 0 1 1.472465,3.07196 l -3.83317,1.02782 a 5.291436,5.291436 0 0 0 -0.841408,-1.7554 z"
+       d="m 24.668876,242.90993 a 9.2600132,9.2600132 0 0 1 1.472465,3.07196 l -3.83317,1.02782 a 5.291436,5.291436 0 0 0 -0.841408,-1.7554 z"
        style="fill:#808080;stroke-width:0.132286" />
     <path
        style="fill:none;stroke:#808080;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 26.458333,185.17284 h 1.070619"
+       d="m 26.458333,244.41306 h 1.070619"
        id="path256926-1"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#808080;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 26.458333,193.11034 h 3.237995"
+       d="m 26.458333,252.35056 h 3.237995"
        id="path34826-8-0-9-0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -18.014471,26.061533 2.333883,-10.18652 h 7.9375003"
-       id="path34826-8-0-9-0-1"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.536309,14.474728 2.206433,0.01171 2.653091,1.388563 2.645833,0"
+       d="m 29.536312,-202.2499 2.20644,0.0117 2.65309,1.38857 h 2.64583"
        id="path34826-8-0-9-0-1-58"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.536309,16.128036 2.206433,0.01171 2.653091,7.672754 h 2.645833"
+       d="m 29.536312,-200.59659 2.20644,0.0117 2.65309,7.67276 h 2.64583"
        id="path34826-8-0-9-0-1-58-4"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 29.536309,16.795415 31.56804,16.807125 34.395833,31.75 h 2.645833"
+       d="m 29.536312,-199.92921 2.03173,0.0117 2.8278,14.94288 h 2.64583"
        id="path34826-8-0-9-0-1-58-4-3"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.536309,17.444784 1.759958,0.01171 3.099566,22.231006 h 2.645833"
+       d="m 29.536312,-199.27984 1.75996,0.0117 3.09957,22.23101 h 2.64583"
        id="path34826-8-0-9-0-1-58-4-7"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.536309,18.105914 1.434967,0.01171 3.424557,29.507375 h 2.645833"
+       d="m 29.536312,-198.61871 1.43497,0.0117 3.42456,29.50738 h 2.64583"
        id="path34826-8-0-9-0-1-58-4-1"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.536309,20.682974 1.292148,-0.0086 3.567376,34.888095 h 2.645833"
+       d="m 29.536312,-196.04165 1.29215,-0.009 3.56738,34.8881 h 2.64583"
        id="path34826-8-0-9-0-1-58-4-1-3"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.536309,26.187649 1.434967,0.01171 3.424557,37.30064 h 2.645833"
+       d="m 29.536312,-190.53697 1.43497,0.0117 3.42456,37.30064 h 2.64583"
        id="path34826-8-0-9-0-1-58-4-1-8"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.536309,30.091353 1.341216,0.01171 3.518308,41.334436 h 2.645833"
+       d="m 29.536312,-186.63327 1.34122,0.0117 3.51831,41.33443 h 2.64583"
        id="path34826-8-0-9-0-1-58-4-1-0"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.536309,32.022248 1.022054,0.0012 3.83747,47.351529 h 2.645833"
+       d="m 29.536312,-184.70238 1.02206,0.001 3.83747,47.35153 h 2.64583"
        id="path34826-8-0-9-0-1-58-4-1-9"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 29.536309,63.561764 2.201834,0.01171 2.65769,23.739025 h 2.645833"
+       d="m 29.536312,-153.16286 2.20184,0.0117 2.65769,23.73903 h 2.64583"
        id="path34826-8-0-9-0-1-58-4-1-7"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -17.918767,27.215793 4.874245,-3.39647 h 5.3299443"
-       id="path34826-8-0-9-0-1-3"
-       sodipodi:nodetypes="ccc" />
+       d="m 16.226589,193.05093 h 1.297931 l 2.526653,-18.52083 h 1.11549"
+       id="path34826-8-0-9-0-1-58-4-1-7-7"
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -17.917213,27.860233 7.420534,3.88978 h 2.7535913"
-       id="path34826-8-0-9-0-1-7"
-       sodipodi:nodetypes="ccc" />
+       d="m 16.226589,195.69676 h 1.297931 l 2.526653,-13.22916 h 1.11549"
+       id="path34826-8-0-9-0-1-58-4-1-7-7-7"
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -17.865702,28.459433 7.531834,11.22808 h 2.5907803"
-       id="path34826-8-0-9-0-1-72"
-       sodipodi:nodetypes="ccc" />
+       d="m 16.226592,198.36084 h 1.297931 l 2.526653,-7.95574 h 1.11549"
+       id="path34826-8-0-9-0-1-58-4-1-7-7-6"
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -17.979978,28.906323 7.631418,18.71869 h 2.6054723"
-       id="path34826-8-0-9-0-1-6"
-       sodipodi:nodetypes="ccc" />
+       d="m 16.226592,200.24494 h 1.297931 l 2.526653,-1.90234 h 1.11549"
+       id="path34826-8-0-9-0-1-58-4-1-7-7-6-4"
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -18.441739,30.855363 8.005903,24.70715 h 2.6927483"
-       id="path34826-8-0-9-0-1-4"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -20.561718,34.273853 7.412997,29.22616 h 5.4056333"
-       id="path34826-8-0-9-0-1-5"
-       sodipodi:nodetypes="ccc" />
+       d="m 16.226592,174.54834 h 1.297931 l 2.526653,-7.95574 h 1.11549"
+       id="path34826-8-0-9-0-1-58-4-1-7-7-6-4-3"
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.299342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 79.375001,365.0895 v 18.52881"
+       d="m 79.375001,161.30091 v 18.52882"
        id="path52179-8-8-9"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.299342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 132.29166,365.0895 v 18.61411"
+       d="m 132.29166,161.30091 v 42.36884"
        id="path52179-8-6-6-2"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.299342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 185.20833,365.0895 v 18.61411"
+       d="m 185.20833,161.30091 v 42.36884"
        id="path52179-8-6-5-0-8"
        sodipodi:nodetypes="cc" />
     <rect
-       style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:1.69423;stroke-linecap:round;stop-color:#000000"
+       style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:1.57218;stroke-linecap:round;stop-color:#000000"
        id="rect15087-9-4-8"
-       width="38.099998"
+       width="32.808334"
        height="5.2916665"
        x="79.375008"
-       y="367.73535"
-       rx="1.4779751e-10"
+       y="163.94676"
+       rx="1.2727008e-10"
+       ry="4.2144602e-08" />
+    <rect
+       style="fill:#6d0d4a;fill-opacity:1;stroke:none;stroke-width:0.936522;stroke-linecap:round;stop-color:#000000"
+       id="rect15087-9-0-8-8"
+       width="11.642"
+       height="5.291667"
+       x="112.18334"
+       y="163.94676"
+       rx="4.5160351e-11"
        ry="4.2144602e-08" />
     <rect
        style="fill:#6d0d4a;fill-opacity:1;stroke:none;stroke-width:1.1117;stroke-linecap:round;stop-color:#000000"
-       id="rect15087-9-0-8-8"
-       width="16.404167"
-       height="5.291667"
-       x="117.475"
-       y="367.73535"
-       rx="6.3635042e-11"
-       ry="4.2144602e-08" />
-    <rect
-       style="fill:#6d0d4a;fill-opacity:1;stroke:none;stroke-width:0.998339;stroke-linecap:round;stop-color:#000000"
        id="rect15087-9-0-5-8-68"
-       width="13.229167"
+       width="16.404167"
        height="5.2916679"
-       x="117.475"
-       y="375.67285"
-       rx="5.1318585e-11"
+       x="129.11667"
+       y="171.88426"
+       rx="6.3635042e-11"
        ry="4.214461e-08" />
     <rect
        style="fill:#6d0d4a;fill-opacity:1;stroke:none;stroke-width:0.315703;stroke-linecap:round;stop-color:#000000"
@@ -1174,7 +865,7 @@
        width="2.6458397"
        height="2.6458337"
        x="140.22916"
-       y="410.06866"
+       y="206.28008"
        rx="1.0263741e-11"
        ry="2.1072303e-08" />
     <rect
@@ -1183,415 +874,389 @@
        width="2.6458397"
        height="2.6458337"
        x="87.3125"
-       y="410.06866"
+       y="206.28008"
        rx="1.0263741e-11"
        ry="2.1072303e-08" />
     <rect
-       style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:1.69422;stroke-linecap:round;stop-color:#000000"
+       style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:1.93583;stroke-linecap:round;stop-color:#000000"
        id="rect15087-9-9-7-3"
-       width="38.099998"
+       width="49.741665"
        height="5.2916675"
        x="79.375008"
-       y="375.67285"
-       rx="1.4779751e-10"
+       y="171.88426"
+       rx="1.9295787e-10"
        ry="4.214461e-08" />
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="29.977114"
-       y="388.09073"
+       y="184.30214"
        id="text15757-5-7-3"><tspan
          sodipodi:role="line"
          id="tspan15755-7-6-3"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="29.977114"
-         y="388.09073">Immigrated 1991-2000</tspan></text>
+         y="184.30214">Immigrated 1991-2000</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="30.134998"
-       y="395.89365"
+       y="192.10506"
        id="text15757-5-7-3-1"><tspan
          sodipodi:role="line"
          id="tspan15755-7-6-3-5"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="30.134998"
-         y="395.89365">Immigrated 2001-2010</tspan></text>
+         y="192.10506">Immigrated 2001-2010</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="29.632473"
-       y="403.8783"
+       y="200.08971"
        id="text15757-5-7-3-1-4"><tspan
          sodipodi:role="line"
          id="tspan15755-7-6-3-5-9"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="29.632473"
-         y="403.8783">Immigrated 2011-2016</tspan></text>
+         y="200.08971">Immigrated 2011-2016</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
-       x="-0.19709854"
-       y="365.96072"
+       x="10.478184"
+       y="155.43385"
        id="text15757-5-2-4-80"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
-         x="-0.19709854"
-         y="365.96072"
+         x="10.478184"
+         y="155.43385"
          id="tspan136119"><tspan
    style="font-weight:bold"
-   id="tspan229078-0-6">%</tspan> of all commuters</tspan></text>
+   id="tspan229078-0-6">%</tspan> of all </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
+         x="10.478184"
+         y="161.34315"
+         id="tspan1868">commuters</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="119.69935"
-       y="379.79706"
+       x="133.05237"
+       y="176.00847"
        id="text15757-5-2-6-0-3-8"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-0-9"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="119.69935"
-         y="379.79706">2.4%</tspan></text>
+         x="133.05237"
+         y="176.00847">3.1%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="121.89203"
-       y="371.8609"
+       x="113.19782"
+       y="168.07231"
        id="text15757-5-2-6-0-1-9-06"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-2-8"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="121.89203"
-         y="371.8609">3.1%</tspan></text>
+         x="113.19782"
+         y="168.07231">2.2%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="96.441589"
-       y="371.93906"
+       x="91.454643"
+       y="168.11862"
        id="text15757-5-2-6-0-1-1-5-7"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-4-90"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="96.441589"
-         y="371.93906">7.2%</tspan></text>
+         x="91.454643"
+         y="168.11862">6.2%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="96.224022"
-       y="379.7478"
+       x="100.3288"
+       y="175.95921"
        id="text15757-5-2-6-0-1-1-0-0-3"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-3-5-3"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="96.224022"
-         y="379.7478">7.2%</tspan></text>
+         x="100.3288"
+         y="175.95921">9.4%</tspan></text>
     <rect
-       style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:1.69423;stroke-linecap:round;stop-color:#000000"
+       style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:2.06537;stroke-linecap:round;stop-color:#000000"
        id="rect15087-9-4-8-7"
-       width="38.099998"
+       width="56.620834"
        height="5.2916665"
        x="79.375"
-       y="383.61035"
-       rx="1.4779751e-10"
+       y="179.82176"
+       rx="2.1964353e-10"
        ry="4.2144602e-08" />
     <rect
-       style="fill:#6d0d4a;fill-opacity:1;stroke:none;stroke-width:1.1117;stroke-linecap:round;stop-color:#000000"
+       style="fill:#6d0d4a;fill-opacity:1;stroke:none;stroke-width:1.18125;stroke-linecap:round;stop-color:#000000"
        id="rect15087-9-0-8-8-9"
-       width="16.404167"
+       width="18.520834"
        height="5.291667"
-       x="117.47498"
-       y="383.61035"
-       rx="6.3635042e-11"
+       x="135.99583"
+       y="179.82176"
+       rx="7.1846015e-11"
        ry="4.2144602e-08" />
     <rect
-       style="fill:#6d0d4a;fill-opacity:1;stroke:none;stroke-width:0.998339;stroke-linecap:round;stop-color:#000000"
+       style="fill:#6d0d4a;fill-opacity:1;stroke:none;stroke-width:1.16425;stroke-linecap:round;stop-color:#000000"
        id="rect15087-9-0-5-8-68-3"
-       width="13.229167"
+       width="17.991667"
        height="5.2916679"
-       x="117.47498"
-       y="391.54785"
-       rx="5.1318585e-11"
+       x="135.46667"
+       y="187.75926"
+       rx="6.9793275e-11"
        ry="4.214461e-08" />
     <rect
-       style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:1.69422;stroke-linecap:round;stop-color:#000000"
+       style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:2.05568;stroke-linecap:round;stop-color:#000000"
        id="rect15087-9-9-7-3-9"
-       width="38.099998"
+       width="56.091667"
        height="5.2916675"
        x="79.375"
-       y="391.54785"
-       rx="1.4779751e-10"
+       y="187.75926"
+       rx="2.1759079e-10"
        ry="4.214461e-08" />
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="119.69933"
-       y="395.67206"
+       x="139.7108"
+       y="191.88347"
        id="text15757-5-2-6-0-3-8-2"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-0-9-8"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="119.69933"
-         y="395.67206">2.4%</tspan></text>
+         x="139.7108"
+         y="191.88347">3.4%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="121.89201"
-       y="387.7359"
+       x="141.40475"
+       y="183.94731"
        id="text15757-5-2-6-0-1-9-06-3"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-2-8-0"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="121.89201"
-         y="387.7359">3.1%</tspan></text>
+         x="141.40475"
+         y="183.94731">3.5%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="96.441582"
-       y="387.81406"
+       x="102.52927"
+       y="184.02545"
        id="text15757-5-2-6-0-1-1-5-7-1"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-4-90-7"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="96.441582"
-         y="387.81406">7.2%</tspan></text>
+         x="102.52927"
+         y="184.02545">10.7%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="96.224014"
-       y="395.6228"
+       x="101.15312"
+       y="191.83421"
        id="text15757-5-2-6-0-1-1-0-0-3-8"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-3-5-3-9"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="96.224014"
-         y="395.6228">7.2%</tspan></text>
+         x="101.15312"
+         y="191.83421">10.6%</tspan></text>
     <rect
-       style="fill:#6d0d4a;fill-opacity:1;stroke:none;stroke-width:0.998339;stroke-linecap:round;stop-color:#000000"
+       style="fill:#6d0d4a;fill-opacity:1;stroke:none;stroke-width:1.05654;stroke-linecap:round;stop-color:#000000"
        id="rect15087-9-0-5-8-68-3-7"
-       width="13.229167"
+       width="14.816667"
        height="5.2916679"
-       x="117.47498"
-       y="399.48535"
-       rx="5.1318585e-11"
+       x="124.88333"
+       y="195.69676"
+       rx="5.7476815e-11"
        ry="4.214461e-08" />
     <rect
-       style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:1.69422;stroke-linecap:round;stop-color:#000000"
+       style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:1.85162;stroke-linecap:round;stop-color:#000000"
        id="rect15087-9-9-7-3-9-4"
-       width="38.099998"
+       width="45.508335"
        height="5.2916675"
        x="79.375"
-       y="399.48535"
-       rx="1.4779751e-10"
+       y="195.69676"
+       rx="1.7653592e-10"
        ry="4.214461e-08" />
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="119.69933"
-       y="403.60956"
+       x="128.05844"
+       y="199.82097"
        id="text15757-5-2-6-0-3-8-2-9"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-0-9-8-9"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="119.69933"
-         y="403.60956">2.4%</tspan></text>
+         x="128.05844"
+         y="199.82097">2.8%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="96.224014"
-       y="403.5603"
+       x="98.498779"
+       y="199.77171"
        id="text15757-5-2-6-0-1-1-0-0-3-8-4"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-3-5-3-9-5"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="96.224014"
-         y="403.5603">7.2%</tspan></text>
+         x="98.498779"
+         y="199.77171">8.6%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="90.572144"
-       y="413.02454"
+       y="209.23596"
        id="text15757-5-2-0-9-3"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-4-7"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="90.572144"
-         y="413.02454">60 to 90 min trip</tspan></text>
+         y="209.23596">60 to 90 min trip</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="143.67596"
-       y="412.92877"
+       y="209.1402"
        id="text15757-5-2-0-7-6-32"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-2-9-6"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="143.67596"
-         y="412.92877">90+ min trip</tspan></text>
+         y="209.1402">90+ min trip</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="78.027596"
-       y="364.42966"
+       y="160.64107"
        id="text15757-5-2-0-2-2-5"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-5-24-2"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="78.027596"
-         y="364.42966">0%</tspan></text>
+         y="160.64107">0%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="128.44926"
-       y="364.0527"
+       y="160.26411"
        id="text15757-5-2-0-2-6-77-6"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-5-2-5-5"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="128.44926"
-         y="364.0527">10%</tspan></text>
+         y="160.26411">10%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="83.521767"
-       y="360.08539"
+       y="156.2968"
        id="text15757-5-2-0-2-6-7-4-8"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-5-2-41-8-7"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="83.521767"
-         y="360.08539">% Extreme Commuter</tspan></text>
+         y="156.2968">% Extreme Commuter</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="181.34555"
-       y="364.12448"
+       y="160.33589"
        id="text15757-5-2-0-2-6-8-1-96"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-5-2-4-2-0"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="181.34555"
-         y="364.12448">20%</tspan></text>
+         y="160.33589">20%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="34.430557"
-       y="380.15314"
+       y="176.36453"
        id="text15757-5-8-8-4"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-9-1"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="34.430557"
-         y="380.15314">Immigrated pre-1991</tspan></text>
+         y="176.36453">Immigrated pre-1991</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="41.315327"
-       y="372.21564"
+       y="168.42703"
        id="text15757-5-8-8-4-2"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-9-1-5"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="41.315327"
-         y="372.21564">Not an immigrant</tspan></text>
+         y="168.42703">Not an immigrant</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
-       x="27.626801"
-       y="372.29871"
+       x="23.044538"
+       y="168.51012"
        id="text15757-5-8-2-36-0"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-8-4"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
-         x="27.626801"
-         y="372.29871">7%</tspan></text>
+         x="23.044538"
+         y="168.51012">75%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
        x="23.022293"
-       y="387.70844"
+       y="183.91985"
        id="text15757-5-8-2-36-0-7"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-8-4-0"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
          x="23.022293"
-         y="387.70844">7%</tspan></text>
+         y="183.91985">6%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
        x="22.915216"
-       y="395.54532"
+       y="191.75673"
        id="text15757-5-8-2-36-0-7-8"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-8-4-0-1"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
          x="22.915216"
-         y="395.54532">7%</tspan></text>
+         y="191.75673">7%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
        x="23.160049"
-       y="403.552"
+       y="199.76341"
        id="text15757-5-8-2-36-0-7-8-9"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-8-4-0-1-9"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
          x="23.160049"
-         y="403.552">7%</tspan></text>
+         y="199.76341">4%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
-       x="28.227264"
-       y="379.7316"
+       x="23.09734"
+       y="175.94301"
        id="text15757-5-8-2-36-0-3"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-8-8-4-5"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
-         x="28.227264"
-         y="379.7316">7%</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
-       x="1.4580157"
-       y="382.16336"
-       id="text15757-5-8-2-3-0-8"><tspan
-         sodipodi:role="line"
-         id="tspan15755-7-8-8-6-2-7"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
-         x="1.4580157"
-         y="382.16336">93%</tspan></text>
-    <path
-       id="0-1-08"
-       fill="#cccccc"
-       d="m 26.141762,374.5974 a 9.2600132,9.2600132 0 1 1 -1.472882,-3.07353 l -3.202115,2.34437 a 5.291436,5.291436 0 1 0 0.841646,1.7563 z"
-       style="stroke-width:0.132286" />
-    <path
-       id="1-0-6"
-       fill="#474175"
-       d="m 24.66888,371.52387 a 9.2600132,9.2600132 0 0 1 1.472465,3.07196 l -3.83317,1.02783 a 5.291436,5.291436 0 0 0 -0.841408,-1.75541 z"
-       style="fill:#808080;stroke-width:0.132286" />
-    <path
-       style="fill:none;stroke:#808080;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 26.458337,373.027 h 1.070619"
-       id="path256926-1-2"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#808080;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 26.458337,380.9645 h 3.237995"
-       id="path34826-8-0-9-0-4"
-       sodipodi:nodetypes="cc" />
+         x="23.09734"
+         y="175.94301">8%</tspan></text>
     <path
        style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.299342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 79.374998,10.583363 10e-7,82.02081"
+       d="m 79.375002,-206.14126 v 82.02081"
        id="path52179-8-8-8"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.299342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 132.29165,10.583363 2e-5,82.02081"
+       d="m 132.29165,-206.14126 2e-5,82.02081"
        id="path52179-8-6-6-5"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#cccccc;fill-opacity:1;stroke:#cccccc;stroke-width:0.299342;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 185.20832,10.583363 1e-5,82.02081"
+       d="m 185.20832,-206.14126 1e-5,82.02081"
        id="path52179-8-6-5-0-0"
        sodipodi:nodetypes="cc" />
     <rect
@@ -1600,7 +1265,7 @@
        width="33.337502"
        height="5.2916665"
        x="79.375"
-       y="84.666679"
+       y="-132.05795"
        rx="1.2932283e-10"
        ry="4.2144602e-08" />
     <rect
@@ -1608,8 +1273,8 @@
        id="rect15087-9-0-8-4"
        width="11.1125"
        height="5.291667"
-       x="112.7125"
-       y="84.666679"
+       x="112.71249"
+       y="-132.05795"
        rx="4.3107608e-11"
        ry="4.2144602e-08" />
     <rect
@@ -1618,7 +1283,7 @@
        width="28.575001"
        height="5.2916679"
        x="148.69583"
-       y="13.229166"
+       y="-203.49545"
        rx="1.1084814e-10"
        ry="4.214461e-08" />
     <rect
@@ -1627,7 +1292,7 @@
        width="2.6458397"
        height="2.6458337"
        x="140.22916"
-       y="95.250023"
+       y="-121.4746"
        rx="1.0263741e-11"
        ry="2.1072303e-08" />
     <rect
@@ -1636,7 +1301,7 @@
        width="2.6458397"
        height="2.6458337"
        x="87.3125"
-       y="95.250023"
+       y="-121.4746"
        rx="1.0263741e-11"
        ry="2.1072303e-08" />
     <rect
@@ -1645,44 +1310,31 @@
        width="69.320831"
        height="5.2916675"
        x="79.375"
-       y="13.229166"
+       y="-203.49545"
        rx="2.6890937e-10"
        ry="4.214461e-08" />
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="52.137344"
-       y="57.107567"
+       x="52.13736"
+       y="-159.61707"
        id="text15757-5-7-6"><tspan
          sodipodi:role="line"
          id="tspan15755-7-6-2"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="52.137344"
-         y="57.107567">South Asian</tspan></text>
+         x="52.13736"
+         y="-159.61707">South Asian</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
-       x="-137.70082"
-       y="202.24982"
-       id="text15757-5-2-4-8"><tspan
-         sodipodi:role="line"
-         id="tspan15755-7-1-3-4"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
-         x="-137.70082"
-         y="202.24982"><tspan
-   style="font-weight:bold"
-   id="tspan229078-0-7">%</tspan> of all commuters</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
-       x="-51.804279"
-       y="18.245152"
+       x="164.92035"
+       y="18.245161"
        id="text15757-5-2-4-8-0"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
-         x="-51.804279"
-         y="18.245152"
+         x="164.92035"
+         y="18.245161"
          id="tspan170754"><tspan
    style="font-weight:bold"
    id="tspan229078-0-7-9">%</tspan> of all commuters</tspan></text>
@@ -1690,53 +1342,53 @@
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        x="158.07507"
-       y="17.353403"
+       y="-199.37122"
        id="text15757-5-2-6-0-3-2"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-0-4"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          x="158.07507"
-         y="17.353403">5.4%</tspan></text>
+         y="-199.37122">5.4%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="113.79853"
-       y="88.792229"
+       x="113.79852"
+       y="-127.9324"
        id="text15757-5-2-6-0-1-9-0"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-2-6"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="113.79853"
-         y="88.792229">2.1%</tspan></text>
+         x="113.79852"
+         y="-127.9324">2.1%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="92.875031"
-       y="88.870384"
+       y="-127.85424"
        id="text15757-5-2-6-0-1-1-5-2"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-4-9"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="92.875031"
-         y="88.870384">6.3%</tspan></text>
+         y="-127.85424">6.3%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="110.49535"
-       y="17.304148"
+       x="110.49536"
+       y="-199.42047"
        id="text15757-5-2-6-0-1-1-0-0-9"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-3-5-0"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="110.49535"
-         y="17.304148">13.1%</tspan></text>
+         x="110.49536"
+         y="-199.42047">13.1%</tspan></text>
     <rect
        style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:2.11308;stroke-linecap:round;stop-color:#000000"
        id="rect15087-9-4-6-4"
        width="59.266666"
        height="5.2916665"
        x="79.375"
-       y="29.104181"
+       y="-187.62045"
        rx="2.2990725e-10"
        ry="4.2144602e-08" />
     <rect
@@ -1745,7 +1397,7 @@
        width="18.520834"
        height="5.291667"
        x="138.64166"
-       y="29.104181"
+       y="-187.62045"
        rx="7.1846015e-11"
        ry="4.2144602e-08" />
     <rect
@@ -1753,8 +1405,8 @@
        id="rect15087-9-0-5-8-6-0"
        width="14.816667"
        height="5.2916679"
-       x="125.94167"
-       y="68.791679"
+       x="125.94168"
+       y="-147.93295"
        rx="5.7476815e-11"
        ry="4.214461e-08" />
     <rect
@@ -1763,60 +1415,60 @@
        width="46.566666"
        height="5.2916675"
        x="79.375"
-       y="68.791679"
+       y="-147.93295"
        rx="1.806414e-10"
        ry="4.214461e-08" />
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        x="129.12906"
-       y="72.915916"
+       y="-143.80872"
        id="text15757-5-2-6-0-3-2-6"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-0-4-2"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          x="129.12906"
-         y="72.915916">2.8%</tspan></text>
+         y="-143.80872">2.8%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="144.00475"
-       y="33.229759"
+       x="144.00476"
+       y="-183.49487"
        id="text15757-5-2-6-0-1-9-0-6"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-2-6-7"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="144.00475"
-         y="33.229759">3.5%</tspan></text>
+         x="144.00476"
+         y="-183.49487">3.5%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="102.0463"
-       y="33.307884"
+       y="-183.41675"
        id="text15757-5-2-6-0-1-1-5-2-5"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-4-9-6"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="102.0463"
-         y="33.307884">11.2%</tspan></text>
+         y="-183.41675">11.2%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="98.322304"
-       y="72.866661"
+       x="98.322296"
+       y="-143.85797"
        id="text15757-5-2-6-0-1-1-0-0-9-9"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-3-5-0-8"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="98.322304"
-         y="72.866661">8.8%</tspan></text>
+         x="98.322296"
+         y="-143.85797">8.8%</tspan></text>
     <rect
        style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:2.08458;stroke-linecap:round;stop-color:#000000"
        id="rect15087-9-4-6-7"
        width="57.679165"
        height="5.2916665"
        x="79.375"
-       y="44.979179"
+       y="-171.74545"
        rx="2.2374902e-10"
        ry="4.2144602e-08" />
     <rect
@@ -1825,7 +1477,7 @@
        width="16.933332"
        height="5.291667"
        x="137.05417"
-       y="44.979179"
+       y="-171.74545"
        rx="6.5687782e-11"
        ry="4.2144602e-08" />
     <rect
@@ -1834,7 +1486,7 @@
        width="19.049999"
        height="5.2916679"
        x="134.40833"
-       y="52.916679"
+       y="-163.80795"
        rx="7.3898762e-11"
        ry="4.214461e-08" />
     <rect
@@ -1843,60 +1495,60 @@
        width="55.033333"
        height="5.2916675"
        x="79.375"
-       y="52.916679"
+       y="-163.80795"
        rx="2.134853e-10"
        ry="4.214461e-08" />
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="139.76271"
-       y="57.040916"
+       x="139.76273"
+       y="-159.68372"
        id="text15757-5-2-6-0-3-2-9"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-0-4-9"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="139.76271"
-         y="57.040916">3.6%</tspan></text>
+         x="139.76273"
+         y="-159.68372">3.6%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        x="141.60257"
-       y="49.104729"
+       y="-167.6199"
        id="text15757-5-2-6-0-1-9-0-60"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-2-6-2"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          x="141.60257"
-         y="49.104729">3.2%</tspan></text>
+         y="-167.6199">3.2%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="102.42632"
-       y="49.182884"
+       x="102.42633"
+       y="-167.54175"
        id="text15757-5-2-6-0-1-1-5-2-7"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-4-9-61"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="102.42632"
-         y="49.182884">10.9%</tspan></text>
+         x="102.42633"
+         y="-167.54175">10.9%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="100.81313"
-       y="56.991661"
+       x="100.81314"
+       y="-159.73297"
        id="text15757-5-2-6-0-1-1-0-0-9-3"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-3-5-0-2"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="100.81313"
-         y="56.991661">10.4%</tspan></text>
+         x="100.81314"
+         y="-159.73297">10.4%</tspan></text>
     <rect
        style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:1.98666;stroke-linecap:round;stop-color:#000000"
        id="rect15087-9-4-6-4-1"
        width="52.387501"
        height="5.2916665"
        x="79.375"
-       y="60.854179"
+       y="-155.87045"
        rx="2.0322158e-10"
        ry="4.2144602e-08" />
     <rect
@@ -1904,8 +1556,8 @@
        id="rect15087-9-0-8-4-0-5"
        width="15.875"
        height="5.291667"
-       x="131.7625"
-       y="60.854179"
+       x="131.76251"
+       y="-155.87045"
        rx="6.1582295e-11"
        ry="4.2144602e-08" />
     <rect
@@ -1914,7 +1566,7 @@
        width="27.516666"
        height="5.2916679"
        x="147.10834"
-       y="21.166681"
+       y="-195.55794"
        rx="1.0674266e-10"
        ry="4.214461e-08" />
     <rect
@@ -1923,60 +1575,60 @@
        width="67.73333"
        height="5.2916675"
        x="79.375"
-       y="21.166681"
+       y="-195.55794"
        rx="2.6275115e-10"
        ry="4.214461e-08" />
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="155.54744"
-       y="25.290918"
+       x="155.54745"
+       y="-191.4337"
        id="text15757-5-2-6-0-3-2-6-1"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-0-4-2-4"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="155.54744"
-         y="25.290918">5.2%</tspan></text>
+         x="155.54745"
+         y="-191.4337">5.2%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="135.46584"
-       y="64.979729"
+       x="135.46585"
+       y="-151.7449"
        id="text15757-5-2-6-0-1-9-0-6-9"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-2-6-7-1"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="135.46584"
-         y="64.979729">3.0%</tspan></text>
+         x="135.46585"
+         y="-151.7449">3.0%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="100.27756"
-       y="65.057884"
+       x="100.27755"
+       y="-151.66675"
        id="text15757-5-2-6-0-1-1-5-2-5-0"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-4-9-6-7"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="100.27756"
-         y="65.057884">9.9%</tspan></text>
+         x="100.27755"
+         y="-151.66675">9.9%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="107.70124"
-       y="25.241663"
+       x="107.70123"
+       y="-191.48296"
        id="text15757-5-2-6-0-1-1-0-0-9-9-5"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-3-5-0-8-8"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="107.70124"
-         y="25.241663">12.8%</tspan></text>
+         x="107.70123"
+         y="-191.48296">12.8%</tspan></text>
     <rect
        style="fill:#ffb900;fill-opacity:1;stroke:none;stroke-width:2.03621;stroke-linecap:round;stop-color:#000000"
        id="rect15087-9-4-6-4-7"
        width="55.033333"
        height="5.2916665"
        x="79.375"
-       y="37.041679"
+       y="-179.68295"
        rx="2.134853e-10"
        ry="4.2144602e-08" />
     <rect
@@ -1985,7 +1637,7 @@
        width="20.637501"
        height="5.291667"
        x="134.40833"
-       y="37.041679"
+       y="-179.68295"
        rx="8.0056989e-11"
        ry="4.2144602e-08" />
     <rect
@@ -1994,7 +1646,7 @@
        width="16.404167"
        height="5.2916679"
        x="110.59583"
-       y="76.729179"
+       y="-139.99545"
        rx="6.3635042e-11"
        ry="4.214461e-08" />
     <rect
@@ -2003,260 +1655,218 @@
        width="31.220833"
        height="5.2916675"
        x="79.375"
-       y="76.729179"
+       y="-139.99545"
        rx="1.2111186e-10"
        ry="4.214461e-08" />
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        x="114.31525"
-       y="80.853416"
+       y="-135.87122"
        id="text15757-5-2-6-0-3-2-6-0"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-0-4-2-42"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          x="114.31525"
-         y="80.853416">3.1%</tspan></text>
+         y="-135.87122">3.1%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       x="140.89565"
-       y="41.167259"
+       x="140.89566"
+       y="-175.55737"
        id="text15757-5-2-6-0-1-9-0-6-96"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-2-6-7-10"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="140.89565"
-         y="41.167259">3.9%</tspan></text>
+         x="140.89566"
+         y="-175.55737">3.9%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="99.057663"
-       y="41.245384"
+       x="99.057671"
+       y="-175.47925"
        id="text15757-5-2-6-0-1-1-5-2-5-4"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-4-9-6-2"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="99.057663"
-         y="41.245384">10.4%</tspan></text>
+         x="99.057671"
+         y="-175.47925">10.4%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="91.533638"
-       y="80.804161"
+       x="91.53363"
+       y="-135.92047"
        id="text15757-5-2-6-0-1-1-0-0-9-9-2"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-2-8-3-1-3-5-0-8-2"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="91.533638"
-         y="80.804161">5.9%</tspan></text>
+         x="91.53363"
+         y="-135.92047">5.9%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="90.572144"
-       y="98.205887"
+       y="-118.51874"
        id="text15757-5-2-0-9-8"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-4-1"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="90.572144"
-         y="98.205887">60 to 90 min trip</tspan></text>
+         y="-118.51874">60 to 90 min trip</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="143.67596"
-       y="98.11013"
+       y="-118.6145"
        id="text15757-5-2-0-7-6-3"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-2-9-1"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="143.67596"
-         y="98.11013">90+ min trip</tspan></text>
+         y="-118.6145">90+ min trip</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="78.027588"
-       y="9.9234858"
+       y="-206.80115"
        id="text15757-5-2-0-2-2-1"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-5-24-0"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="78.027588"
-         y="9.9234858">0%</tspan></text>
+         y="-206.80115">0%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="128.44926"
-       y="9.5465174"
+       x="128.44928"
+       y="-207.1781"
        id="text15757-5-2-0-2-6-77-3"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-5-2-5-4"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="128.44926"
-         y="9.5465174">10%</tspan></text>
+         x="128.44928"
+         y="-207.1781">10%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="83.521759"
-       y="5.5792174"
+       y="-211.1454"
        id="text15757-5-2-0-2-6-7-4-0"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-5-2-41-8-3"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="83.521759"
-         y="5.5792174">% Extreme Commuter</tspan></text>
+         y="-211.1454">% Extreme Commuter</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="181.34555"
-       y="9.6182947"
+       y="-207.10632"
        id="text15757-5-2-0-2-6-8-1-9"><tspan
          sodipodi:role="line"
          id="tspan15755-7-1-8-5-2-4-2-1"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="181.34555"
-         y="9.6182947">20%</tspan></text>
+         y="-207.10632">20%</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="65.183273"
-       y="88.885948"
+       x="65.183289"
+       y="-127.83868"
        id="text15757-5-8-8-9"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-9-6"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="65.183273"
-         y="88.885948">White</tspan></text>
+         x="65.183289"
+         y="-127.83868">White</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="65.30545"
-       y="17.530817"
+       y="-199.1938"
        id="text15757-5-7-6-5"><tspan
          sodipodi:role="line"
          id="tspan15755-7-6-2-0"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="65.30545"
-         y="17.530817">Black</tspan></text>
+         y="-199.1938">Black</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="45.853077"
-       y="33.030357"
+       x="45.853088"
+       y="-183.69427"
        id="text15757-5-7-6-4"><tspan
          sodipodi:role="line"
          id="tspan15755-7-6-2-3"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="45.853077"
-         y="33.030357">Latin American</tspan></text>
+         x="45.853088"
+         y="-183.69427">Latin American</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
        x="55.053772"
-       y="65.189262"
+       y="-151.53537"
        id="text15757-5-8-8-9-5"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-9-6-1"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
          x="55.053772"
-         y="65.189262">East Asian</tspan></text>
+         y="-151.53537">East Asian</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="67.229012"
-       y="73.01989"
+       x="67.229004"
+       y="-143.70474"
        id="text15757-5-8-8-9-2-3"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-9-6-9-1"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="67.229012"
-         y="73.01989">Arab</tspan></text>
+         x="67.229004"
+         y="-143.70474">Arab</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="53.82235"
-       y="49.251701"
+       x="53.822357"
+       y="-167.47293"
        id="text15757-5-8-8-9-5-9"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-9-6-1-4"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="53.82235"
-         y="49.251701">West Asian</tspan></text>
+         x="53.822357"
+         y="-167.47293">West Asian</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="65.321556"
-       y="25.378778"
+       x="65.321564"
+       y="-191.34584"
        id="text15757-5-7-6-5-7-2"><tspan
          sodipodi:role="line"
          id="tspan15755-7-6-2-0-4-2"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="65.321556"
-         y="25.378778">Other</tspan></text>
+         x="65.321564"
+         y="-191.34584">Other</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="54.206478"
-       y="80.525719"
+       x="54.206482"
+       y="-136.19891"
        id="text15757-5-7-6-5-7-2-1"><tspan
          sodipodi:role="line"
          id="tspan15755-7-6-2-0-4-2-2"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="54.206478"
-         y="80.525719">Indigenous</tspan></text>
+         x="54.206482"
+         y="-136.19891">Indigenous</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#000059;fill-opacity:1;stroke-width:0.264583"
-       x="60.06625"
-       y="40.913261"
+       x="60.066254"
+       y="-175.81137"
        id="text15757-5-8-8-9-2-3-6-8"><tspan
          sodipodi:role="line"
          id="tspan15755-7-8-9-6-9-1-4-8"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000059;fill-opacity:1;stroke-width:0.264583"
-         x="60.06625"
-         y="40.913261">Multiple</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
-       x="-120.54795"
-       y="187.78583"
-       id="text15757-5-8-2-36-9"><tspan
-         sodipodi:role="line"
-         id="tspan15755-7-8-8-8-3"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
-         x="-120.54795"
-         y="187.78583">7%</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.52778px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
-       x="-136.0457"
-       y="192.92953"
-       id="text15757-5-8-2-3-0-3"><tspan
-         sodipodi:role="line"
-         id="tspan15755-7-8-8-6-2-8"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
-         x="-136.0457"
-         y="192.92953">93%</tspan></text>
-    <path
-       id="0-1-0"
-       fill="#cccccc"
-       d="m -111.36196,185.36359 a 9.2600132,9.2600132 0 1 1 -1.47288,-3.07352 l -3.20212,2.34437 a 5.291436,5.291436 0 1 0 0.84165,1.7563 z"
-       style="stroke-width:0.132286" />
-    <path
-       id="1-0-5"
-       fill="#474175"
-       d="m -112.83484,182.29007 a 9.2600132,9.2600132 0 0 1 1.47246,3.07196 l -3.83317,1.02782 a 5.291436,5.291436 0 0 0 -0.84141,-1.7554 z"
-       style="fill:#808080;stroke-width:0.132286" />
-    <path
-       style="fill:none;stroke:#808080;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -111.04539,183.7932 h 1.07062"
-       id="path256926-1-6"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#808080;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -111.04539,191.7307 h 3.238"
-       id="path34826-8-0-9-0-6"
-       sodipodi:nodetypes="cc" />
+         x="60.066254"
+         y="-175.81137">Multiple</tspan></text>
     <g
        data-z-index="0"
        id="g138958"
@@ -2317,145 +1927,13 @@
        style="color:#666666;font-size:3.175px;fill:#666666;stroke-width:0.264583"
        y="322.93375"
        id="text140006" />
-    <g
-       data-z-index="3"
-       id="g139988"
-       transform="matrix(0.02219797,0.08284396,-0.08284396,0.02219797,-19.1044,-3.3586969)"
-       style="stroke:#cccccc;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-      <g
-         data-z-index="0.1"
-         opacity="1"
-         transform="translate(10,47)"
-         id="g139984"
-         style="stroke:#cccccc;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-        <path
-           fill="#ff0ee6"
-           d="M 422.92203,146.60301 A 108,108 0 1 1 314.84999,34.500104 l 0.001,0.999999 A 107,107 0 1 0 421.92276,146.56502 Z"
-           data-z-index="-1"
-           fill-opacity="0.25"
-           visibility="hidden"
-           id="path139962"
-           style="stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           fill="#94d13d"
-           d="m 314.84999,34.500104 a 108,108 0 0 1 22.09145,2.278953 l -9.93125,47.57447 a 59.4,59.4 0 0 0 -12.1503,-1.253424 z"
-           stroke="#ffffff"
-           stroke-width="1"
-           opacity="1"
-           stroke-linejoin="round"
-           id="path139964"
-           style="fill:#a6a6a6;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           fill="#6f58e9"
-           d="m 337.17516,36.801077 a 108,108 0 0 1 2.53014,0.562592 l -11.11738,47.311349 a 59.4,59.4 0 0 0 -1.39158,-0.309426 z"
-           stroke="#ffffff"
-           stroke-width="1"
-           opacity="1"
-           stroke-linejoin="round"
-           id="path139966"
-           style="fill:#404040;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           fill="#2d99fe"
-           d="m 339.81043,37.388427 a 108,108 0 0 1 9.4493,2.689549 l -15.41688,46.089911 a 59.4,59.4 0 0 0 -5.19712,-1.479252 z"
-           stroke="#ffffff"
-           stroke-width="1"
-           opacity="1"
-           stroke-linejoin="round"
-           id="path139968"
-           style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           fill="#2ddac1"
-           d="m 349.36213,40.112287 a 108,108 0 0 1 3.46065,1.227261 l -17.02025,45.522204 a 59.4,59.4 0 0 0 -1.90336,-0.674994 z"
-           stroke="#ffffff"
-           stroke-width="1"
-           opacity="1"
-           stroke-linejoin="round"
-           id="path139970"
-           style="fill:#666666;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           fill="#95e13d"
-           d="m 352.92393,41.377422 a 108,108 0 0 1 4.41125,1.765985 l -19.05083,44.710467 a 59.4,59.4 0 0 0 -2.42619,-0.971292 z"
-           stroke="#ffffff"
-           stroke-width="1"
-           opacity="1"
-           stroke-linejoin="round"
-           id="path139972"
-           style="fill:#cccccc;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           fill="#29da56"
-           d="m 357.43452,43.185792 a 108,108 0 0 1 30.61131,19.763552 L 355.17521,98.747139 A 59.4,59.4 0 0 0 338.33898,87.877186 Z"
-           stroke="#ffffff"
-           stroke-width="1"
-           opacity="1"
-           stroke-linejoin="round"
-           id="path139974"
-           style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           fill="#4c3390"
-           d="m 388.12534,63.02243 a 108,108 0 0 1 30.17784,47.97435 l -46.48643,14.17645 A 59.4,59.4 0 0 0 355.21894,98.787336 Z"
-           stroke="#ffffff"
-           stroke-width="1"
-           opacity="1"
-           stroke-linejoin="round"
-           id="path139976"
-           style="fill:#b2b2b2;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           fill="#6f575b"
-           d="m 418.33463,111.1001 a 108,108 0 0 1 2.01495,7.62035 l -47.40731,10.7008 a 59.4,59.4 0 0 0 -1.10822,-4.1912 z"
-           stroke="#ffffff"
-           stroke-width="1"
-           opacity="1"
-           stroke-linejoin="round"
-           id="path139978"
-           style="fill:#4d4d4d;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           fill="#b158d4"
-           d="m 420.3733,118.82582 a 108,108 0 0 1 2.55278,27.66927 l -48.56673,-1.79779 a 59.4,59.4 0 0 0 -1.40403,-15.2181 z"
-           stroke="#ffffff"
-           stroke-width="1"
-           opacity="1"
-           stroke-linejoin="round"
-           id="path139980"
-           style="fill:#808080;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           fill="#ff0ee6"
-           d="M 422.92203,146.60301 A 108,108 0 1 1 314.84999,34.500104 l 0.0675,48.599953 a 59.4,59.4 0 1 0 59.43963,61.656603 z"
-           stroke="#ffffff"
-           stroke-width="1"
-           opacity="1"
-           stroke-linejoin="round"
-           id="path139982"
-           style="fill:#d9d9d9;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      </g>
-      <g
-         data-z-index="0.1"
-         opacity="1"
-         transform="translate(10,47)"
-         id="g139986"
-         style="stroke:#cccccc;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <path
-       style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -22.801118,35.935253 7.12053,35.50226 h 7.9375003"
-       id="path34826-8-0-9-0-1-2"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -24.051243,36.561683 8.370655,42.81333 h 7.9375003"
-       id="path34826-8-0-9-0-1-0"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#e6e6e6;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -26.963313,37.225753 8.785259,50.08676 h 10.4349663"
-       id="path34826-8-0-9-0-1-29"
-       sodipodi:nodetypes="ccc" />
     <rect
        style="fill:#999999;fill-opacity:1;stroke:#e6e6e6;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="rect175839-7-6-8"
        width="5.291666"
        height="4.2333322"
-       x="23.812502"
-       y="18.52084"
+       x="23.812513"
+       y="-198.20378"
        rx="9.2373442e-11"
        ry="1.0114702e-07" />
     <rect
@@ -2463,8 +1941,8 @@
        id="rect175839-7-8-7"
        width="5.2916675"
        height="6.8791656"
-       x="23.8125"
-       y="22.754171"
+       x="23.812498"
+       y="-193.97044"
        rx="9.237347e-11"
        ry="1.643639e-07" />
     <rect
@@ -2472,17 +1950,62 @@
        id="rect175839-7-8-0"
        width="5.2916636"
        height="59.002083"
-       x="23.812502"
-       y="33.602085"
+       x="23.812513"
+       y="-183.12254"
        rx="9.2373401e-11"
        ry="1.4097368e-06" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect175839-7-8-0-3-0"
+       width="5.2916636"
+       height="27.78125"
+       x="10.583333"
+       y="163.94676"
+       rx="9.2373401e-11"
+       ry="6.6377743e-07" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect175839-7-8-0-3-0-4"
+       width="5.2916636"
+       height="2.9104166"
+       x="10.583333"
+       y="191.72801"
+       rx="9.2373401e-11"
+       ry="6.9538586e-08" />
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect175839-7-8-0-3-0-4-8"
+       width="5.2916636"
+       height="2.1166666"
+       x="10.583333"
+       y="194.63843"
+       rx="9.2373401e-11"
+       ry="5.0573519e-08" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect175839-7-8-0-3-0-4-8-8"
+       width="5.2916636"
+       height="2.6458333"
+       x="10.583333"
+       y="196.7551"
+       rx="9.2373401e-11"
+       ry="6.3216902e-08" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect175839-7-8-0-3-0-4-8-89"
+       width="5.2916636"
+       height="1.5875"
+       x="10.583333"
+       y="199.40092"
+       rx="9.2373401e-11"
+       ry="3.7930143e-08" />
     <rect
        style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="rect175839-7-8-0-9"
        width="5.2916636"
        height="3.175"
-       x="23.812502"
-       y="30.427086"
+       x="23.812513"
+       y="-186.29755"
        rx="9.2373401e-11"
        ry="7.5860278e-08" />
     <rect
@@ -2490,8 +2013,8 @@
        id="rect175839-74"
        width="5.2916665"
        height="2.6458323"
-       x="23.812502"
-       y="13.229181"
+       x="23.812513"
+       y="-203.49544"
        rx="9.2373449e-11"
        ry="6.3216874e-08" />
     <rect
@@ -2499,8 +2022,8 @@
        id="rect175839-5-19"
        width="5.2916665"
        height="0.52916527"
-       x="23.812502"
-       y="15.875013"
+       x="23.812513"
+       y="-200.84961"
        rx="9.2373456e-11"
        ry="1.2643346e-08" />
     <rect
@@ -2508,8 +2031,8 @@
        id="rect175839-5-0-0"
        width="5.2916665"
        height="0.52916527"
-       x="23.812502"
-       y="17.197926"
+       x="23.812513"
+       y="-199.52669"
        rx="9.2373456e-11"
        ry="1.2643346e-08" />
     <rect
@@ -2517,8 +2040,8 @@
        id="rect175839-5-1-9"
        width="5.2916665"
        height="0.7937488"
-       x="23.812502"
-       y="16.404179"
+       x="23.812513"
+       y="-200.32043"
        rx="9.2373449e-11"
        ry="1.8965039e-08" />
     <rect
@@ -2526,8 +2049,8 @@
        id="rect175839-5-1-3-88"
        width="5.2916665"
        height="0.7937488"
-       x="23.812502"
-       y="17.727091"
+       x="23.812513"
+       y="-198.99753"
        rx="9.2373449e-11"
        ry="1.8965039e-08" />
     <rect
@@ -2535,9 +2058,57 @@
        id="rect175839-5-1-3-8-3"
        width="5.2916665"
        height="0.7937488"
-       x="23.8125"
-       y="29.633337"
+       x="23.812498"
+       y="-187.09129"
        rx="9.2373449e-11"
        ry="1.8965039e-08" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3"
+     sodipodi:insensitive="true">
+    <rect
+       style="display:inline;fill:#ebf1f4;fill-opacity:1;stroke:none;stroke-width:0.548277;stroke-linecap:round;stroke-dasharray:0.548277, 0.548277;stop-color:#000000"
+       id="rect9052"
+       width="193.14583"
+       height="5.2916665"
+       x="0"
+       y="0"
+       rx="2.0714606e-10"
+       ry="4.2144684e-08" />
+    <image
+       width="27.252083"
+       height="19.579166"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGcAAABKCAYAAACmc0oRAAAABHNCSVQICAgIfAhkiAAAAMpJREFU
+eJzt0bENwCAAwLDS/z9lQmKnF3Qmg31BpIy59nlIem8H8M+cMHPCzAkzJ8ycMHPCzAkzJ8ycMHPC
+zAkzJ8ycMHPCzAkzJ8ycMHPCzAkzJ8ycMHPCzAkzJ8ycMHPCzAkzJ8ycMHPCzAkzJ8ycMHPCzAkz
+J8ycMHPCzAkzJ8ycMHPCzAkzJ8ycMHPCzAkzJ8ycMHPCzAkzJ8ycMHPCzAkzJ8ycMHPCzAkzJ8yc
+MHPCzAkzJ8ycMHPCzAkzJ8ycMHPCzAkzJ+wDuvYEY8advZ0AAAAASUVORK5CYII=
+"
+       id="image25658"
+       x="207.64096"
+       y="6.6623812" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:'Avenir LT Std';-inkscape-font-specification:'Avenir LT Std';fill:#808080;fill-opacity:1;stroke-width:0.264583"
+       x="129.54271"
+       y="3.5402462"
+       id="text15757-5-8-8-4-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan15755-7-8-9-1-5-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-opacity:1;stroke-width:0.264583"
+         x="129.54271"
+         y="3.5402462">Data: 2016 Canadian Census / Chart by Jeff Allen</tspan></text>
+    <rect
+       style="fill:#000059;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:0.529167, 0.529167;stop-color:#000000"
+       id="rect34752"
+       width="5.2916665"
+       height="5.2916665"
+       x="0"
+       y="0"
+       rx="1.9295798e-10"
+       ry="4.2144684e-08" />
   </g>
 </svg>
