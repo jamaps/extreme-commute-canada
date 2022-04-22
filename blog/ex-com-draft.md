@@ -17,7 +17,7 @@ However, in our analysis of 2016 census data, we find that there are stark diffe
 
 - All data presented above are self-reported from the census except for Low-Income status which is based on the after-tax [Low-Income Cutoff](https://www12.statcan.gc.ca/census-recensement/2016/ref/dict/fam019-eng.cfm), derived from linked data from the Canada Revenue Agency
 
-- The data were accessed at the Toronto Research Data Centre (RDC), operated by Statistics Canada. Only aggregated statistics, like those shown above, were released from the RDC.
+- The data were accessed at the Toronto Research Data Centre (RDC), operated by Statistics Canada. Only aggregated statistics, like those shown above, were released from the RDC. This data can be downloaded from [here](https://github.com/jamaps/extreme-commute-canada/tree/main/data-2016).
 
 - We've also used this data to compute logistic regression models predicting the likelihood of being an extreme commuter. We found that these inequities persist, even after controlling for occupation, geography, job accessibility, and mode choice among other variables. We will be releasing the results of this analysis shortly.
 
