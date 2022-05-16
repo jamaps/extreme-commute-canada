@@ -1,0 +1,105 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: extreme-commute-canada.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: references.bib
+Warning--string name "june" is undefined
+--line 58 of file references.bib
+Warning--string name "sept" is undefined
+--line 76 of file references.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Name 1 in "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" has a comma at the end for entry Axisa_2012
+while executing---line 5062 of file apacite.bst
+Too many commas in name 1 of "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" for entry Axisa_2012
+while executing---line 5062 of file apacite.bst
+Name 1 in "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" has a comma at the end for entry Axisa_2012
+while executing---line 5066 of file apacite.bst
+Too many commas in name 1 of "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" for entry Axisa_2012
+while executing---line 5066 of file apacite.bst
+Name 1 in "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" has a comma at the end for entry Axisa_2012
+while executing---line 5066 of file apacite.bst
+Too many commas in name 1 of "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" for entry Axisa_2012
+while executing---line 5066 of file apacite.bst
+Name 1 in "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" has a comma at the end for entry Axisa_2012
+while executing---line 5068 of file apacite.bst
+Too many commas in name 1 of "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" for entry Axisa_2012
+while executing---line 5068 of file apacite.bst
+Name 1 in "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" has a comma at the end for entry Axisa_2012
+while executing---line 5068 of file apacite.bst
+Too many commas in name 1 of "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" for entry Axisa_2012
+while executing---line 5068 of file apacite.bst
+Name 1 in "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" has a comma at the end for entry Axisa_2012
+while executing---line 5072 of file apacite.bst
+Too many commas in name 1 of "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" for entry Axisa_2012
+while executing---line 5072 of file apacite.bst
+Name 1 in "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" has a comma at the end for entry Axisa_2012
+while executing---line 5075 of file apacite.bst
+Too many commas in name 1 of "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" for entry Axisa_2012
+while executing---line 5075 of file apacite.bst
+Name 1 in "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" has a comma at the end for entry Axisa_2012
+while executing---line 5076 of file apacite.bst
+Too many commas in name 1 of "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" for entry Axisa_2012
+while executing---line 5076 of file apacite.bst
+Name 1 in "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" has a comma at the end for entry Axisa_2012
+while executing---line 5079 of file apacite.bst
+Too many commas in name 1 of "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" for entry Axisa_2012
+while executing---line 5079 of file apacite.bst
+Name 1 in "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" has a comma at the end for entry Axisa_2012
+while executing---line 5079 of file apacite.bst
+Too many commas in name 1 of "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" for entry Axisa_2012
+while executing---line 5079 of file apacite.bst
+Name 1 in "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" has a comma at the end for entry Axisa_2012
+while executing---line 5079 of file apacite.bst
+Too many commas in name 1 of "Axis, Jeffrey, Scott, Darren M, and Newbold, Bruce" for entry Axisa_2012
+while executing---line 5079 of file apacite.bst
+You've used 65 entries,
+            6951 wiz_defined-function locations,
+            1688 strings with 24844 characters,
+and the built_in function-call counts, 136306 in all, are:
+= -- 16329
+> -- 1077
+< -- 7397
++ -- 7403
+- -- 135
+* -- 9377
+:= -- 26746
+add.period$ -- 265
+call.type$ -- 65
+change.case$ -- 1210
+chr.to.int$ -- 0
+cite$ -- 130
+duplicate$ -- 3423
+empty$ -- 4980
+format.name$ -- 1824
+if$ -- 24761
+int.to.chr$ -- 0
+int.to.str$ -- 199
+missing$ -- 0
+newline$ -- 1732
+num.names$ -- 522
+pop$ -- 1936
+preamble$ -- 1
+purify$ -- 348
+quote$ -- 0
+skip$ -- 8131
+stack$ -- 0
+substring$ -- 7903
+swap$ -- 2042
+text.length$ -- 230
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 5264
+warning$ -- 0
+while$ -- 703
+width$ -- 0
+write$ -- 2172
+(There were 22 error messages)
