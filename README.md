@@ -1,3 +1,11 @@
 ## extreme-commute-canada
 
-Data and graphics for a [blog post](https://mobilizingjustice.ca/who-are-canadas-extreme-commuters/) on inequalities of extreme commuting in Canada
+Data, files, and graphics for a [blog post](https://mobilizingjustice.ca/who-are-canadas-extreme-commuters/) and a journal article ([DOI](https://doi.org/10.1016/j.tbs.2022.05.005), [Open Access PDF](https://osf.io/u72ky)) on inequalities of extreme commuting in Canada.
+
+![race_commute](/blog/race_commute.png)
+
+![immig_commute](/blog/immig_commute.png)
+
+![income_commute](/blog/income_commute.png)
+
+![geog_plot](/paper/figures/geog_plot_v5.png)
